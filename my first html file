@@ -5,7 +5,7 @@
 <body>
 <div style="background-image:url('cut.jpg');">
 <div class="next">
-<p>This is some text that is placed in the transparent box.</p>
+<p>There is some text that is placed in the transparent box.</p>
 </div>
 </div>
 
