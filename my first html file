@@ -1,0 +1,14 @@
+<html>
+<head>
+<link rel="stylesheet" href="/home/section1/2016cse039/a.css">
+</head>
+<body>
+<div style="background-image:url('cut.jpg');">
+<div class="next">
+<p>This is some text that is placed in the transparent box.</p>
+</div>
+</div>
+
+</style>
+</body>
+</html>
